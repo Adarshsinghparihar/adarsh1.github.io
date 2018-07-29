@@ -1,0 +1,121 @@
+a:link {
+    color:rgb(255,255,102); 
+    background-color: transparent; 
+    text-decoration: none;
+}
+
+a:visited {
+    color:rgb(40,255,153);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+	padding: 20px;
+    color: red;
+    background-color: rgb(50,50,50);
+    text-decoration: underline;
+	border:2px solid black;
+}
+
+a:active {
+    color: rgb(50,50,50);
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.home{
+font-family:Arial;
+font-size:25px;
+position:absolute;
+right:550px;
+top:45px;
+}
+
+.about{
+	font-family:Arial;
+    font-size:25px;
+	position:absolute;
+	right:400px;
+	top:45px;
+}
+.hobbies{
+	font-family:Arial;
+    font-size:25px;
+	position:absolute;
+	right:250px;
+	top:45px;
+}
+.contact{
+	font-family:Arial;
+	font-size:25px;
+	position:absolute;
+	top:45px;
+    right:100px;
+}
+
+.name {
+	font-style: italic;
+	color:  rgb(0,255,204) ;
+	font-size:100px;
+	position:absolute;
+	top:200px;
+    right:200px;
+}
+
+.text1 {
+	border: 5px outset ;
+	font-style: italic;
+	color:  rgb(0,255,204) ;
+	font-size:45px;
+	position:absolute;
+	top:200px;
+    right:200px;
+	padding: 30px ;
+	margin-left: 120px ;
+	margin-bottom: 10px ;
+	text-align: center ;
+	
+}
+
+
+.text2 {
+	border: 5px outset ;
+	font-style: italic;
+	color:  rgb(0,255,204) ;
+	font-size:45px;
+	position:absolute;
+	top:200px;
+    right:200px;
+	padding: 50px ;
+	margin-left: 120px ;
+	margin-bottom: 10px ;
+	text-align: center ;
+	
+}
+
+.text3 {
+	border: 5px outset ;
+	font-style: italic;
+	color:  rgb(0,255,204) ;
+	font-size:45px;
+	position:absolute;
+	top:200px;
+    right:200px;
+	padding: 30px ;
+	margin : 20px 0px 40px 150px ;
+	
+	text-align:left ;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
